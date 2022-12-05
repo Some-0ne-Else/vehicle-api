@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Some-0ne-Else/CHANGE_ME"
+    "url": "git+https://github.com/Some-0ne-Else/vehicle-api"
   },
   "husky": {
     "hooks": {
@@ -26,7 +26,7 @@
   "bugs": {
     "url": "https://github.com/Some-0ne-Else/vehicle-api/issues"
   },
-  "homepage": "https://github.com/Some-0ne-Else/vehicle-payments-api#readme",
+  "homepage": "https://github.com/Some-0ne-Else/vehicle-api#readme",
   "devDependencies": {
     "eslint": "^7.11.0",
     "eslint-config-airbnb-base": "^14.2.0",

@@ -12,9 +12,9 @@
 
 ### Endpoints
 
-`/signup` (POST) -- регистрация
-`/signin` (POST) -- авторизация
-`/users/me` (GET) -- получение информации о текущем пользователе
-`/vehicles` (GET) -- получение списка ТС
-`/vehicles` (POST) -- добавление нового ТС
-`/vehicles/:id` (DELETE) -- удаление ТС
+* `/signup` (POST) -- регистрация
+* `/signin` (POST) -- авторизация
+* `/users/me` (GET) -- получение информации о текущем пользователе
+* `/vehicles` (GET) -- получение списка ТС
+* `/vehicles` (POST) -- добавление нового ТС
+* `/vehicles/:id` (DELETE) -- удаление ТС

@@ -1,5 +1,5 @@
 const {
-  PORT = 3000, DB_SERVER = 'localhost', DB_PORT = 27017, DB_NAME = 'vehicle-payments-db', JWT_SECRET = 'secret-key',
+  PORT = 3000, DB_SERVER = 'localhost', DB_PORT = 27017, DB_NAME = 'vehicle-db', JWT_SECRET = 'secret-key',
 } = process.env;
 
 module.exports = {

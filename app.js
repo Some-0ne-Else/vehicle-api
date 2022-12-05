@@ -24,8 +24,6 @@ app.use(helmet());
 app.use(limiter);
 mongoose.connect(`mongodb://${DB_SERVER}:${DB_PORT}/${DB_NAME}`, {
   useNewUrlParser: true,
-  // useCreateIndex: true,
-  // useFindAndModify: false,
 });
 
 app.use(bodyParser.json());
